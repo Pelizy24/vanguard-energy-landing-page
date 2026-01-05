@@ -95,11 +95,11 @@ export function ContactSection() {
                   <div>
                     <h3 className="font-semibold text-primary mb-2">Address</h3>
                     <p className="text-muted-foreground">
-                      123 Energy Plaza
+                      3rd Floor, 301 Church & New
                       <br />
-                      Houston, TX 77002
+                     Garden Streets
                       <br />
-                      United States
+                      Queenstown, Georgetown, Guyana
                     </p>
                   </div>
                 </div>

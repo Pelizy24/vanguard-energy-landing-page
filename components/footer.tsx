@@ -93,8 +93,8 @@ export function Footer() {
           <div>
             <h3 className="font-semibold mb-4">Contact</h3>
             <ul className="space-y-2 text-primary-foreground/80">
-              <li>123 Energy Plaza</li>
-              <li>Houston, TX 77002</li>
+              <li>3rd Floor, 301 Church & New</li>
+              <li>Garden Streets Queenstown, Georgetown, Guyana</li>
               <li>+1 (555) 123-4567</li>
               <li>info@vanguardenergy.com</li>
             </ul>
